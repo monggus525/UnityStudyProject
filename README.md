@@ -1,9 +1,9 @@
 # UnityStudyProject
 겨울 학기 유니티 기초 프로그래밍 교육 프로젝트 제출용
 
-Title: Escape the Tower(Third person view)
+Title: Run away from mad hero(third person view)
 
-Story: 미지의 타워에 갇힌 댕댕이 용사. 과연 그는 타워를 탈출 할 수 있을까?
+Story: 용사와의 싸움에서 진 당신. 당신을 끝까지 잡으려는 용사로부터 도망쳐라!
 
 How to Play:
 
